@@ -3,7 +3,7 @@
   "category": "building",
   "key": {
     "#": {
-      "item": "sinomagic:tofu"
+      "item": "sinomagic:dried_shit"
     }
   },
   "pattern": [
@@ -13,6 +13,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "sinomagic:tofu_block"
+    "id": "sinomagic:dried_shit_block"
   }
 }
